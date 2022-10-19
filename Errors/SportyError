@@ -1,0 +1,9 @@
+
+
+Tue Oct 11 2022 14:04:21 GMT+0100 (West Africa Standard Time) 
+	Error type Sporty Main Function Catch Error
+		TypeError: Cannot read properties of undefined (reading 'category')
+
+Tue Oct 11 2022 14:07:23 GMT+0100 (West Africa Standard Time) 
+	Error type Sporty Main Function Catch Error
+		TypeError: Cannot read properties of undefined (reading 'category')

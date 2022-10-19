@@ -1,0 +1,21 @@
+
+
+Fri Oct 14 2022 22:08:31 GMT+0100 (West Africa Standard Time) 
+	Error type Error while requesting from 1xbet server
+		Error: read ETIMEDOUT
+
+Fri Oct 14 2022 23:05:18 GMT+0100 (West Africa Standard Time) 
+	Error type Error while requesting from 1xbet server
+		ReferenceError: FootballData is not defined
+
+Fri Oct 14 2022 23:05:30 GMT+0100 (West Africa Standard Time) 
+	Error type Error while requesting from 1xbet server
+		ReferenceError: FootballData is not defined
+
+Fri Oct 14 2022 23:05:49 GMT+0100 (West Africa Standard Time) 
+	Error type Error while requesting from 1xbet server
+		ReferenceError: FootballData is not defined
+
+Wed Oct 19 2022 10:15:11 GMT+0100 (West Africa Standard Time) 
+	Error type Error while requesting from 1xbet server
+		Error: read ECONNRESET

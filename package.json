@@ -1,0 +1,20 @@
+{
+  "name": "arbitrage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"node SportyScrap.js\" \"node 1xbetScrap.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "concurrently": "^7.4.0",
+    "mongodb": "^4.9.1",
+    "puppeteer": "^18.2.1",
+    "puppeteer-cluster": "^0.23.0",
+    "random-useragent": "^0.5.0"
+  }
+}
